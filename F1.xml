@@ -1,1 +1,9 @@
-
+<item>
+<title></title>
+<urlsolve><urlsolve>
+<regex>
+<name>index</name>
+<expres>iframe width="640" height="360" frameborder="0" src="https:\/\/mega.nz\/embed#([^"]+)" allowfullscreen</expres>
+<page>[index.param1]</page>
+</regex>
+</item>
